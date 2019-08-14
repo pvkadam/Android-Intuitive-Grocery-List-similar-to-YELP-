@@ -1,0 +1,185 @@
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:id="@+id/coordinatorLayout"
+    android:background="@color/colorBack"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Shopping List"
+        android:layout_gravity="center|top"
+        android:textSize="34sp"
+        android:layout_marginTop="5sp"
+        android:textStyle="bold|italic"/>
+
+    <android.support.v4.widget.NestedScrollView
+
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/nestedScrollView"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="80dp"
+        android:layout_marginTop="60sp"
+        android:fillViewport="true">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="0dip">
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical" />
+
+            <ListView
+                android:id="@+id/listView1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="5dp"></ListView>
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical" />
+
+            <ListView
+                android:id="@+id/listView2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="5dp"></ListView>
+
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical" />
+
+            <ListView
+                android:id="@+id/listView3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="5dp"></ListView>
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical" />
+
+            <ListView
+                android:id="@+id/listView4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="5dp"></ListView>
+
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical" />
+
+            <ListView
+                android:id="@+id/listView5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="5dp"></ListView>
+
+            <TextView
+                android:id="@+id/textView6"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical" />
+
+            <ListView
+                android:id="@+id/listView6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="5dp"></ListView>
+
+
+            <TextView
+                android:id="@+id/textView7"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical" />
+
+            <ListView
+                android:id="@+id/listView7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="5dp"></ListView>
+
+            <TextView
+                android:id="@+id/textView8"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:gravity="center_vertical" />
+
+            <ListView
+                android:id="@+id/listView8"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:paddingBottom="5dp"></ListView>
+        </LinearLayout>
+
+    </android.support.v4.widget.NestedScrollView>
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|end"
+        android:layout_margin="10dp"
+        app:backgroundTint="@android:color/black"
+        app:srcCompat="@android:drawable/ic_menu_add" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/del"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|start"
+        android:layout_margin="10dp"
+        app:backgroundTint="@android:color/black"
+        app:srcCompat="@android:drawable/ic_menu_delete" />
+
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/share"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom|center"
+        android:layout_margin="10dp"
+        app:backgroundTint="@android:color/black"
+        app:srcCompat="@android:drawable/ic_menu_share" />
+
+    <android.support.design.widget.FloatingActionButton
+        android:id="@+id/dummy"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top|start"
+        android:visibility="invisible"
+        android:layout_margin="10dp"
+        app:backgroundTint="@android:color/black"
+        app:srcCompat="@android:drawable/ic_menu_share" />
+
+    <TextView
+        android:id="@+id/emptyText"
+        android:layout_width="match_parent"
+        android:layout_height="176dp"
+        android:text="TextView"
+        app:layout_anchor="@+id/nestedScrollView"
+        app:layout_anchorGravity="left|center" />
+
+</android.support.design.widget.CoordinatorLayout>

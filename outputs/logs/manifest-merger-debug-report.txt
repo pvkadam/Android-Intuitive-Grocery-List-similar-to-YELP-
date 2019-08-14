@@ -1,0 +1,209 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\venka\Downloads\SrollView\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\venka\Downloads\SrollView\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\venka\Downloads\SrollView\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\venka\Downloads\SrollView\app\src\main\AndroidManifest.xml:2:1-41:12
+MERGED from [com.github.amlcurran.showcaseview:library:5.4.3] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\library-5.4.3.aar\acaca954f78070e716404c538b711599\AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\bfbc5b75ea66b98547d26f123d669517\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\3d67533af5136985d2fe8d0b38a18dc3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\c3bcd285d1afd57c201ed5231a804ce0\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\0f7ec7a216e4add181a87162c9a68e77\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\987418ff7fa5c9db0b6692441d623a93\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\3f9b9994ee762dd2c5702633b7008264\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\d7592e574381f8ddd243ea0da1b6ab09\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\12c9426c8ab5cee690acb661ead0e0eb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\ea257372289507eedc21229690b8d9f0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\82d81a67553654291444808d24991cf7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\4e7058a6d84c27d887326961dd8404cd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\e59247c6d24dad8e52a263c7d33c3c7f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\99fffa8bdba290f9cce95908c70ec72a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\579de68c021974e441eba3ad629bf382\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\ba6d607f92c089fe7e8f68d9c2556319\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\519589a5c70c1b68813075e8c36cef77\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\da7eaece848027fa3520eb485d913692\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\3ee4f385718933fe2fd73f7733927d6b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\d2be01b979f2a84e1a90fc883a3f3c7b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6767d4d9f309f8eff0e51f453ec11479\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\da6dec677b1001dbdadad121ce9d6c9f\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\venka\Downloads\SrollView\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\venka\Downloads\SrollView\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\venka\Downloads\SrollView\app\src\main\AndroidManifest.xml:2:1-41:12
+	package
+		ADDED from C:\Users\venka\Downloads\SrollView\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from C:\Users\venka\Downloads\SrollView\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\venka\Downloads\SrollView\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\venka\Downloads\SrollView\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\venka\Downloads\SrollView\app\src\main\AndroidManifest.xml:2:1-41:12
+		INJECTED from C:\Users\venka\Downloads\SrollView\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\venka\Downloads\SrollView\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\venka\Downloads\SrollView\app\src\main\AndroidManifest.xml:2:1-41:12
+		INJECTED from C:\Users\venka\Downloads\SrollView\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\venka\Downloads\SrollView\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\venka\Downloads\SrollView\app\src\main\AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from C:\Users\venka\Downloads\SrollView\app\src\main\AndroidManifest.xml:5:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\venka\Downloads\SrollView\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Users\venka\Downloads\SrollView\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\venka\Downloads\SrollView\app\src\main\AndroidManifest.xml:7:5-67
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\0f7ec7a216e4add181a87162c9a68e77\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\0f7ec7a216e4add181a87162c9a68e77\AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from C:\Users\venka\Downloads\SrollView\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\venka\Downloads\SrollView\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from C:\Users\venka\Downloads\SrollView\app\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\venka\Downloads\SrollView\app\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from C:\Users\venka\Downloads\SrollView\app\src\main\AndroidManifest.xml:9:22-77
+uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
+ADDED from C:\Users\venka\Downloads\SrollView\app\src\main\AndroidManifest.xml:10:5-98
+	android:name
+		ADDED from C:\Users\venka\Downloads\SrollView\app\src\main\AndroidManifest.xml:10:22-95
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\venka\Downloads\SrollView\app\src\main\AndroidManifest.xml:11:5-71
+	android:name
+		ADDED from C:\Users\venka\Downloads\SrollView\app\src\main\AndroidManifest.xml:11:22-68
+uses-feature#0x00020000
+ADDED from C:\Users\venka\Downloads\SrollView\app\src\main\AndroidManifest.xml:13:5-15:35
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\0f7ec7a216e4add181a87162c9a68e77\AndroidManifest.xml:26:5-28:35
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\0f7ec7a216e4add181a87162c9a68e77\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from C:\Users\venka\Downloads\SrollView\app\src\main\AndroidManifest.xml:14:9-41
+	android:required
+		ADDED from C:\Users\venka\Downloads\SrollView\app\src\main\AndroidManifest.xml:15:9-32
+application
+ADDED from C:\Users\venka\Downloads\SrollView\app\src\main\AndroidManifest.xml:17:5-39:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\c3bcd285d1afd57c201ed5231a804ce0\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\c3bcd285d1afd57c201ed5231a804ce0\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\0f7ec7a216e4add181a87162c9a68e77\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\0f7ec7a216e4add181a87162c9a68e77\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\987418ff7fa5c9db0b6692441d623a93\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\987418ff7fa5c9db0b6692441d623a93\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\3f9b9994ee762dd2c5702633b7008264\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\3f9b9994ee762dd2c5702633b7008264\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\d7592e574381f8ddd243ea0da1b6ab09\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\d7592e574381f8ddd243ea0da1b6ab09\AndroidManifest.xml:22:5-26:19
+	android:supportsRtl
+		ADDED from C:\Users\venka\Downloads\SrollView\app\src\main\AndroidManifest.xml:22:9-35
+	android:label
+		ADDED from C:\Users\venka\Downloads\SrollView\app\src\main\AndroidManifest.xml:20:9-41
+	android:roundIcon
+		ADDED from C:\Users\venka\Downloads\SrollView\app\src\main\AndroidManifest.xml:21:9-54
+	android:icon
+		ADDED from C:\Users\venka\Downloads\SrollView\app\src\main\AndroidManifest.xml:19:9-43
+	android:allowBackup
+		ADDED from C:\Users\venka\Downloads\SrollView\app\src\main\AndroidManifest.xml:18:9-35
+	android:theme
+		ADDED from C:\Users\venka\Downloads\SrollView\app\src\main\AndroidManifest.xml:23:9-59
+activity#domain.comany.venkat.srollview.MainActivity
+ADDED from C:\Users\venka\Downloads\SrollView\app\src\main\AndroidManifest.xml:24:9-30:20
+	android:name
+		ADDED from C:\Users\venka\Downloads\SrollView\app\src\main\AndroidManifest.xml:24:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\venka\Downloads\SrollView\app\src\main\AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\venka\Downloads\SrollView\app\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from C:\Users\venka\Downloads\SrollView\app\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\venka\Downloads\SrollView\app\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from C:\Users\venka\Downloads\SrollView\app\src\main\AndroidManifest.xml:28:27-74
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\venka\Downloads\SrollView\app\src\main\AndroidManifest.xml:32:9-34:55
+	android:value
+		ADDED from C:\Users\venka\Downloads\SrollView\app\src\main\AndroidManifest.xml:34:13-52
+	android:name
+		ADDED from C:\Users\venka\Downloads\SrollView\app\src\main\AndroidManifest.xml:33:13-58
+activity#domain.comany.venkat.srollview.MapsActivity
+ADDED from C:\Users\venka\Downloads\SrollView\app\src\main\AndroidManifest.xml:36:9-38:68
+	android:label
+		ADDED from C:\Users\venka\Downloads\SrollView\app\src\main\AndroidManifest.xml:38:13-56
+	android:name
+		ADDED from C:\Users\venka\Downloads\SrollView\app\src\main\AndroidManifest.xml:37:13-41
+uses-sdk
+INJECTED from C:\Users\venka\Downloads\SrollView\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\venka\Downloads\SrollView\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\venka\Downloads\SrollView\app\src\main\AndroidManifest.xml
+MERGED from [com.github.amlcurran.showcaseview:library:5.4.3] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\library-5.4.3.aar\acaca954f78070e716404c538b711599\AndroidManifest.xml:22:5-24:41
+MERGED from [com.github.amlcurran.showcaseview:library:5.4.3] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\library-5.4.3.aar\acaca954f78070e716404c538b711599\AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:design:27.1.1] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\bfbc5b75ea66b98547d26f123d669517\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\bfbc5b75ea66b98547d26f123d669517\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\3d67533af5136985d2fe8d0b38a18dc3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\3d67533af5136985d2fe8d0b38a18dc3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\c3bcd285d1afd57c201ed5231a804ce0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.0] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.0.aar\c3bcd285d1afd57c201ed5231a804ce0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\0f7ec7a216e4add181a87162c9a68e77\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\0f7ec7a216e4add181a87162c9a68e77\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\987418ff7fa5c9db0b6692441d623a93\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\987418ff7fa5c9db0b6692441d623a93\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\3f9b9994ee762dd2c5702633b7008264\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\play-services-tasks-15.0.1.aar\3f9b9994ee762dd2c5702633b7008264\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\d7592e574381f8ddd243ea0da1b6ab09\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\d7592e574381f8ddd243ea0da1b6ab09\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\12c9426c8ab5cee690acb661ead0e0eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\12c9426c8ab5cee690acb661ead0e0eb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\ea257372289507eedc21229690b8d9f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\ea257372289507eedc21229690b8d9f0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\82d81a67553654291444808d24991cf7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\82d81a67553654291444808d24991cf7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\4e7058a6d84c27d887326961dd8404cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\4e7058a6d84c27d887326961dd8404cd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\e59247c6d24dad8e52a263c7d33c3c7f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\e59247c6d24dad8e52a263c7d33c3c7f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\99fffa8bdba290f9cce95908c70ec72a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\99fffa8bdba290f9cce95908c70ec72a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\579de68c021974e441eba3ad629bf382\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\579de68c021974e441eba3ad629bf382\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\ba6d607f92c089fe7e8f68d9c2556319\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\ba6d607f92c089fe7e8f68d9c2556319\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\519589a5c70c1b68813075e8c36cef77\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\519589a5c70c1b68813075e8c36cef77\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\da7eaece848027fa3520eb485d913692\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\da7eaece848027fa3520eb485d913692\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\3ee4f385718933fe2fd73f7733927d6b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\3ee4f385718933fe2fd73f7733927d6b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\d2be01b979f2a84e1a90fc883a3f3c7b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\d2be01b979f2a84e1a90fc883a3f3c7b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6767d4d9f309f8eff0e51f453ec11479\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\6767d4d9f309f8eff0e51f453ec11479\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\da6dec677b1001dbdadad121ce9d6c9f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\da6dec677b1001dbdadad121ce9d6c9f\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\venka\Downloads\SrollView\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\venka\Downloads\SrollView\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\venka\Downloads\SrollView\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\venka\Downloads\SrollView\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\venka\Downloads\SrollView\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\venka\Downloads\SrollView\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\venka\Downloads\SrollView\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\venka\Downloads\SrollView\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\0f7ec7a216e4add181a87162c9a68e77\AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:15.0.1] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\play-services-maps-15.0.1.aar\0f7ec7a216e4add181a87162c9a68e77\AndroidManifest.xml:23:22-76
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\987418ff7fa5c9db0b6692441d623a93\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\987418ff7fa5c9db0b6692441d623a93\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\987418ff7fa5c9db0b6692441d623a93\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\play-services-base-15.0.1.aar\987418ff7fa5c9db0b6692441d623a93\AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\d7592e574381f8ddd243ea0da1b6ab09\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\d7592e574381f8ddd243ea0da1b6ab09\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:15.0.1] C:\Users\venka\.gradle\caches\transforms-1\files-1.1\play-services-basement-15.0.1.aar\d7592e574381f8ddd243ea0da1b6ab09\AndroidManifest.xml:24:13-58
